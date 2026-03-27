@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andylovephysics
 - 👀 I’m interested in physics, engineering, origami
-- 🌱 I’m currently learning Java, Python, and Arduino
+- 🌱 I’m currently learning Verilog
 - 📫 How to reach me: email me at xuweixuan0086@163.com
 
 
